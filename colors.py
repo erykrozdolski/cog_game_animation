@@ -1,0 +1,16 @@
+__author__ = 'Eryk'
+black=(0,0,0)
+white=(255,255,255)
+red=(237,28,36)
+green=(0,166,81)
+cyan=(0,174,239)
+cyan2=(39,169,225)
+yellow=(255,242,0)
+magenta=(236,0,140)
+light_black = (73,74,73)
+real_green = (16,156,73)
+real_red= (212,32,43)
+ai_color = (71,70,75)
+carrot_color = (242,107,76)
+grey = (127,127,127)
+
